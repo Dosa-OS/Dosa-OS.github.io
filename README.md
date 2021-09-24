@@ -2,7 +2,7 @@
 
 This repository is created for the developers of Dosa-OS project.
 Common Troubleshooting Issues and errors will be fixed here.
-For guide on how to us it, for asking questions and troubleshooting common errors, check .
+For guide on how to us it, for asking question/s and troubleshooting common errors, check [here](how_to.md).
 
 # Developers
 
@@ -11,6 +11,9 @@ For guide on how to us it, for asking questions and troubleshooting common error
 - [Omkar .K](https://github.com/OmkarKhedekar/)
 - [Shubham .N](https://github.com/shunax19/)
 
-## Table of Contents
+# Table of Contents
 
-* **[01: Troubleshooting "ifconfig command not found"](troubleshooting/01.ifconfig_troubleshotting/01.ifconfig_command_not_found.md)**
+## Troubleshooting Methods
+- **[01: Troubleshooting "ifconfig command not found"](troubleshooting/01.ifconfig_troubleshotting/01.ifconfig_troubleshooting.md)**
+
+## Questions
