@@ -11,7 +11,7 @@ For guide on how to us it, for asking question/s and troubleshooting common erro
 - [Omkar .K](https://github.com/OmkarKhedekar/)
 - [Shubham .N](https://github.com/shunax19/)
 
-![](http://media-s3-us-east-1.ceros.com/cbre-apac/images/2018/04/24/24127390de9c7147b9643daa01d248ad/timeline-line.png)
+![](Images/timeline-line.png)
 
 # Table of Contents
 ## Troubleshooting Methods
@@ -20,7 +20,7 @@ For guide on how to us it, for asking question/s and troubleshooting common erro
 ## Questions
 
 
-![](http://media-s3-us-east-1.ceros.com/cbre-apac/images/2018/04/24/24127390de9c7147b9643daa01d248ad/timeline-line.png)
+![](Images/timeline-line.png)
 
 <p>
   <a href="https://github.com/Dosa-OS/" target="_blank">
