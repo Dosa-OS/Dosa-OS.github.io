@@ -16,6 +16,7 @@ For guide on how to us it, for asking question/s and troubleshooting common erro
 # Table of Contents
 ## Troubleshooting Methods
 - **[01: Troubleshooting "ifconfig command not found"](troubleshooting/01.ifconfig_troubleshotting/01.ifconfig_troubleshooting.md)**
+- **[02: Troubleshooting "Copy Paste Issue"](troubleshooting/02.copypaste_troubleshooting/02.copypaste_troubleshooting.md)**
 
 ## Questions
 
