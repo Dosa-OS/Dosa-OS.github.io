@@ -12,4 +12,4 @@ Common Troubleshooting Issues and errors will be fixed here.
 
 ## Table of Contents
 
-* **[01: Troubleshooting "ifconfig command not found"](docs/01.ifconfig_troubleshotting/01.ifconfig_command_not_found.md)
+* **[01: Troubleshooting "ifconfig command not found"](docs/01.ifconfig_troubleshotting/01.ifconfig_command_not_found.md)**
