@@ -22,8 +22,8 @@ For guide on how to us it, for asking question/s and troubleshooting common erro
 
 ![](Images/timeline-line.png)
 
-<p>
+<div align="center">
   <a href="https://github.com/Dosa-OS/" target="_blank">
-    <img src="https://pngimg.com/uploads/github/github_PNG17.png" alt="Follow @Dosa-OS on github" height="34" >
+    <img src="https://pngimg.com/uploads/github/github_PNG17.png" alt="Follow @Dosa-OS on github" height="80" >
   </a>
-</p>
+</div>
