@@ -65,17 +65,13 @@ As a network penetration testing VM(Virtual Machine), we plan to identify the we
 Security shouldn’t be taken lightly as we live in the modern era where a person’s identity can be stolen and sold. We plan to make a VM that will be able to detect vulnerabilities in the system using the custom scripts which our team developed. The scripts can find and detect the devices connected to the victim, also being able to monitor their activities or modify a couple of aspects of it.
 
 ## Literature Survey
-
-**3.1 What is Penetration Testing?**
-
+### 3.1 What is Penetration Testing?
 Penetration testing, also called “pen testing” or “ethical hacking” is the practice of testing a computer system, network, or web application to find security vulnerabilities that an attacker could exploit. Penetration testing can be automated with software applications or performed manually. Either way, the process involves gathering information about the target before the test, identifying possible entry points, attempting to break in either virtually or for real, and reporting back the findings.
 
-**3.2 Why Perform a Penetration Test?**
-
+### 3.2 Why Perform a Penetration Test?
 If a vulnerability is utilized by an unauthorized individual to access company resources, company resources can be compromised. The objective of a penetration test is to address vulnerabilities before they can be utilized.
 
-**3.3 What is already available in the Market?**
-
+### 3.3 What is already available in the Market?
 - [Nmap](https://nmap.org/) (Port scanner)
 - [Metasploit](https://www.metasploit.com/) (Web vulnerability scanner)
 - [Nikto](https://cirt.net/Nikto2) (Web vulnerability scanner)
@@ -83,39 +79,28 @@ If a vulnerability is utilized by an unauthorized individual to access company r
 - [Kismet](https://www.kismetwireless.net/) (Packet sniffer)
 - [Kali Linux](https://www.kali.org/) (The Most Advanced Penetration Testing Distribution)
 
-
-
-
-**3.4 What is different in our alternative?**
-
+### 3.4 What is different in our alternative?
 We are using our custom-built OS called “DosaOS” which is based on the latest DEBIAN distribution (version 11). The purpose of this OS is to penetrate the networks and find vulnerabilities in the victim machines. Initially, the template DEBIAN distribution that we have used does not contain any penetration testing toolkit at all. This means that it has to be implemented into this template right from the scratch! The following are the set of scripts written in PYTHON that will do the aforementioned work:
 
 - **ARP Spoofer:**
-
 “_arpspoof_” is a DEB package that can be used to become the man in the middle and transfer packets through it!
 
 - **Packet Sniffer:**
-
 “_cappac_” is a DEB package that can be used to Capture & Sniff Packets - Sniffs Packets, Captures Data Files while Accessing Websites, Captures Passwords & Usernames (Login Data)!
 
 - **## DNS Spoofer:**
-
 “_dnspoof_” is a DEB package that can be used to Intercept and Modify network traffic.
 
 - **## Code Injector:**
-
 “_injecto_” is a DEB package that can be used to Inject Code on websites.
 
 - **## MAC Changer**
-
 “_macc_” is a DEB package that can be used to Change MAC Addresses - Increase anonymity, Impersonate other devices, Bypass filters!
 
 - **## Network Scanner:**
-
 “netsc” is a Python package that can be used to scan a network - get mac addresses and IP of connected devices
 
 - **## Replace Downloads:**
-
 “repdwn” is a DEB package that can be used to Intercept and Replace files.
 
 ## Problem Statement
@@ -124,14 +109,13 @@ Creating a specialized VM(_Virtual Machine_) specifically to bring together the 
 It enables Network Penetration testers, a quick way to get started and have access to the tools and scripts required specifically for network penetration testing, all neatly packaged under one roof.
 
 ## Scope of the Project
-**5.1 Project requirements:**
-
+### 5.1 Project requirements:
 - Identifying the relevant tools required for penetration testing.
 - A suitable environment to develop and test the scripts. (Virtual Machine, Python)
 - A platform for collaboration of individual work on the project. (GitHub)
 - Gather relevant resources for reference. (Courses, Research papers)
 
-**5.2 Objectives and Goals:**
+### 5.2 Objectives and Goals:
 - Setting up a Debian-based operating system on Virtual Machine.
 - Setting up a test machine. (Windows-based)
 - Developing the relevant scripts as per our requirements.
@@ -145,71 +129,51 @@ Our scripts are meant to isolate and monitor the victims browsing while keeping 
 
 
 ## Methodology
-
-**7.1 SAMPLES / MATERIALS:**
-
+### 7.1 SAMPLES / MATERIALS:
 - A capable working 64-bit PC/Laptop (with at least 8GB RAM and 100GB free storage) for launching VirtualBox.
 - The latest build of Debian Linux Distribution (version 11).
 - VirtualBox software for hosting virtual machines.
 - Bleachbit for obliterating the unnecessary junk files (ultimately reducing the built size).
 - gnome / Xfce Desktop Environments (choice-based, we found Xfce better over gnome)
 
-**7.2 RESEARCH TOOLS & PROCEDURES:**
-
+### 7.2 RESEARCH TOOLS & PROCEDURES:
 - Research papers on this or related topics.
 - Knowledgeable guide/mentor, preferably the one who is considerably versed in information security.
 
-**7.3 DATA****ANALYSIS TECHNIQUES:**
-
+### 7.3 DATA****ANALYSIS TECHNIQUES:
 - Pre-existing software
 - Client-based requirements
 
 ## Analysis
 Cost-Benefit Analysis (CBA)
-
-**8.1 Development Cost :**
-
+### 8.1 Development Cost :
 - Template Distro: Template Distribution used for the creation of the virtual machine (VM) is free. Debian is used as a template distro, it is made of free and open-source software and will always be 100%[free](https://www.debian.org/intro/free). Free for anyone to use, modify, and distribute.
-
-
 - Apache HTTP Server Project: The Apache HTTP Server Project is a collaborative software development effort aimed at creating a robust, commercial-grade, featureful, and freely available source code implementation of an HTTP (Web) server.
 
-**8.2 Set-up :**
-
+### 8.2 Set-up :
 - Hypervisor: To set up the virtual machine on top of the host operating system, a hypervisor emulator such as VirtualBox is used. VirtualBox is a[free and open-source](https://en.wikipedia.org/wiki/Free_and_open-source) [hosted](https://en.wikipedia.org/wiki/Hypervisor#Classification) [hypervisor](https://en.wikipedia.org/wiki/Hypervisor) for [x86 virtualization](https://en.wikipedia.org/wiki/X86_virtualization), developed by[Oracle Corporation](https://en.wikipedia.org/wiki/Oracle_Corporation).
 
 
 
 ## Designing
-**9.1 Sequential Diagram**
-
-**![](https://lh3.googleusercontent.com/JV2iAjWcSPTgc26sa7l7jrSbfGvGtQqSgS5dlwv34s6Ud7VJtXg13ml3WIbkTACDZa_stWWOq8A39TtNSQj-n0KUVWaFt7P6TLtGBjXJl67czHq56ToivwEhoTNx4b5_FLy0Aj-N)**
+### 9.1 Sequential Diagram
+![](https://lh3.googleusercontent.com/JV2iAjWcSPTgc26sa7l7jrSbfGvGtQqSgS5dlwv34s6Ud7VJtXg13ml3WIbkTACDZa_stWWOq8A39TtNSQj-n0KUVWaFt7P6TLtGBjXJl67czHq56ToivwEhoTNx4b5_FLy0Aj-N)
 
 ## Hardware & Software Requirements
-
-10.1 Hardware Requirements:- minimum requirements to run the operating system and virtual machine
-
+### Hardware Requirements:- minimum requirements to run the operating system and virtual machine
 1\. i3 2.5GHz or any other 2 Core CPU.
-
 2\. 8 GB RAM memory
-
 3\. Around 100GB storage
 
-10.2 Software Requirements:-
-
+### Software Requirements:-
 1\. VirtualBox 6.1 or higher which works on Windows, Linux, also Macintosh operating systems as a host for the virtual machine.
-
 2\. Our custom-made operating system will run on a Virtual Machine.
 
 ## Timeline chart of project implementation
-
-**11.1 Timeline**
-
-**![](https://lh5.googleusercontent.com/-2AH4myhWN7JlMblZ7a6z6u9oAI27Su5y4WmlXH9JQqvKCbB5pSk9TecFO715KqK9k_ovqNb3fVJ0EH8H69du7eSrcv38-j3clLu28hDhEALmX0mY4XAmp9qi6RUEFl4NHBsNyk1)**
+### 11.1 Timeline
+![](https://lh5.googleusercontent.com/-2AH4myhWN7JlMblZ7a6z6u9oAI27Su5y4WmlXH9JQqvKCbB5pSk9TecFO715KqK9k_ovqNb3fVJ0EH8H69du7eSrcv38-j3clLu28hDhEALmX0mY4XAmp9qi6RUEFl4NHBsNyk1)
 
 ## References
-
-
 1. _Reasons to use Debian_\[<https://www.debian.org/intro/why_debian>]
 2. _Apache web server_\[<https://www.apache.org/licenses/LICENSE-2.0>]
 3. _Hypervisor Emulator (VirtualBox)_\[<https://www.virtualbox.org/>]
