@@ -14,9 +14,6 @@ Prof. Atul Oak
 
 * * *
 
-
-
-
 Department of Electronics & Telecommunication Engineering
 
 ![](https://lh5.googleusercontent.com/otSAqwW4xdhV171psLwxFqWjg5vwYij_72qR-sw-xAthW3rSfwz29bksV580_Je2rlemr94Wx8Io_NezaYjIwC49jnqpy43Xgf6xxhHvA_zwvMYeJF-dvUzQDR3A_UZPWEHKMz0ZFPTXELNWWw)
@@ -39,18 +36,18 @@ By undertaking these steps, we can find the vulnerable points in the system and 
 
 
 # Table of Contents
-- Introduction
-Objective of Project
-- Literature Survey
-- Problem Statement
-- Scope of the Project
-- Proposed System
-- Methodology
-- Analysis
-- Designing
-- Hardware & Software requirement
-- Timeline Chart of project implementation
-- References
+- [Introduction]
+- [Objective of Project](#Introduction)
+- [Literature Survey](#literature-survey)
+- [Problem Statement](#problem-statement)
+- [Scope of the Project](#scope-of-the-project)
+- [Proposed System](#proposed-system)
+- [Methodology](#methodology)
+- [Analysis](#analysis)
+- [Designing](#designing)
+- [Hardware & Software requirement](hardware--software-requirement)
+- [Timeline Chart of project implementation](#timeline-chart-of-project-implementation)
+- [References](#references)
 
 ## Introduction
 This project is designed for network penetration testing and vulnerability assessment. We have focused on setting up various attack scenarios by developing a variety of tools that can be used to exploit a network’s weakness. We aim to create an operating system based on Debian specifically for penetration testing.
