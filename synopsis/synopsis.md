@@ -30,8 +30,6 @@
 
 * * *
 
-
-
 <div align="center">
 <p>Department of Electronics & Telecommunication Engineering</p>
 </div>
