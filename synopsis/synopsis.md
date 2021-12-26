@@ -90,21 +90,21 @@ We are using our custom-built OS called “DosaOS” which is based on the lates
 </details>
 
 <details>
-<summary>ARP Spoofer:</summary>
+<summary>ARP Spoofer [arpspoof]:</summary>
 <br>
 “_arpspoof_” is a DEB package that can be used to become the man in the middle and transfer packets through it!
 ![](Images/netsc.png)
 </details>
 
 <details>
-<summary>Packet Sniffer:</summary>
+<summary>Packet Sniffer [cappac]:</summary>
 <br>
 “_cappac_” is a DEB package that can be used to Capture & Sniff Packets - Sniffs Packets, Captures Data Files while Accessing Websites, Captures Passwords & Usernames (Login Data)!
 ![](Images/cappac.png)
 </details>
 
 <details>
-<summary>DNS Spoofer:</summary>
+<summary>DNS Spoofer [dnspoof]:</summary>
 <br>
 “_dnspoof_” is a DEB package that can be used to Intercept and Modify network traffic.
 ![](Images/dns.png)
@@ -112,22 +112,22 @@ We are using our custom-built OS called “DosaOS” which is based on the lates
 </details>
 
 <details>
-<summary>Code Injector:</summary>
+<summary>Code Injector [injecto]:</summary>
 <br>
 “_injecto_” is a DEB package that can be used to Inject Code on websites.
 ![](Images/inject_code.png)
 </details>
 
 <details>
-<summary>MAC Changer:</summary>
+<summary>Replace Downloads [repdwn]:</summary>
+<br>
+“repdwn” is a DEB package that can be used to Intercept and Replace files.</details>
+
+<details>
+<summary>MAC Changer [macc]:</summary>
 <br>
 “_macc_” is a DEB package that can be used to Change MAC Addresses - Increase anonymity, Impersonate other devices, Bypass filters!
 </details>
-
-<details>
-<summary>Replace Downloads:</summary>
-<br>
-“repdwn” is a DEB package that can be used to Intercept and Replace files.</details>
 
 
 ## Problem Statement
