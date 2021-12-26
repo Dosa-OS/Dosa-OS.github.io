@@ -93,24 +93,29 @@ We are using our custom-built OS called “DosaOS” which is based on the lates
 <summary>ARP Spoofer:</summary>
 <br>
 “_arpspoof_” is a DEB package that can be used to become the man in the middle and transfer packets through it!
+![](Images/netsc.png)
 </details>
 
 <details>
 <summary>Packet Sniffer:</summary>
 <br>
 “_cappac_” is a DEB package that can be used to Capture & Sniff Packets - Sniffs Packets, Captures Data Files while Accessing Websites, Captures Passwords & Usernames (Login Data)!
+![](Images/cappac.png)
 </details>
 
 <details>
 <summary>DNS Spoofer:</summary>
 <br>
 “_dnspoof_” is a DEB package that can be used to Intercept and Modify network traffic.
+![](Images/dns.png)
+![](Images/dns_result.png)
 </details>
 
 <details>
 <summary>Code Injector:</summary>
 <br>
 “_injecto_” is a DEB package that can be used to Inject Code on websites.
+![](Images/inject_code.png)
 </details>
 
 <details>
