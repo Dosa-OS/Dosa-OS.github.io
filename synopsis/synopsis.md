@@ -82,8 +82,12 @@ If a vulnerability is utilized by an unauthorized individual to access company r
 ### 3.4 What is different in our alternative?
 We are using our custom-built OS called “DosaOS” which is based on the latest DEBIAN distribution (version 11). The purpose of this OS is to penetrate the networks and find vulnerabilities in the victim machines. Initially, the template DEBIAN distribution that we have used does not contain any penetration testing toolkit at all. This means that it has to be implemented into this template right from the scratch! The following are the set of scripts written in PYTHON that will do the aforementioned work:
 
-- **ARP Spoofer:**
+
+<details>
+<summary>**ARP Spoofer:**</summary>
+<br>
 “_arpspoof_” is a DEB package that can be used to become the man in the middle and transfer packets through it!
+</details>
 
 - **Packet Sniffer:**
 “_cappac_” is a DEB package that can be used to Capture & Sniff Packets - Sniffs Packets, Captures Data Files while Accessing Websites, Captures Passwords & Usernames (Login Data)!
