@@ -13,19 +13,7 @@ Read our project synopsis [here](synopsis/synopsis.md)
 - [Omkar .K](https://github.com/OmkarKhedekar/)
 - [Shubham .N](https://github.com/shunax19/)
 
-![](Images/timeline-line.png)
-
-# Table of Contents
-## Troubleshooting Methods
-- **[01: Troubleshooting "ifconfig command not found"](troubleshooting/01.ifconfig_troubleshotting/01.ifconfig_troubleshooting.md)**
-- **[02: Troubleshooting "Copy Paste Issue"](troubleshooting/02.copypaste_troubleshooting/02.copypaste_troubleshooting.md)**
-- **[03: Troubleshooting "netfilterqueue failed to install"](troubleshooting/03.netfilterqueue_troubleshooting/03.netfilterqueue_troubleshooting.md)**
-- **[04: Troubleshooting "Unmet build dependencies"](troubleshooting/04.unmet_build_dependencies_troubleshooting/04.unmet_build_dependencies_troubleshooting.md)**
-
-## Questions
-
-
-![](Images/timeline-line.png)
+* * *
 
 <div align="center">
   <a href="https://github.com/Dosa-OS/" target="_blank">
