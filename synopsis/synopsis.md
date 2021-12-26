@@ -36,8 +36,8 @@ By undertaking these steps, we can find the vulnerable points in the system and 
 
 
 # Table of Contents
-- [Introduction]
-- [Objective of Project](#Introduction)
+- [Introduction](#Introduction)
+- [Objective of Project](#objective-of-survey)
 - [Literature Survey](#literature-survey)
 - [Problem Statement](#problem-statement)
 - [Scope of the Project](#scope-of-the-project)
