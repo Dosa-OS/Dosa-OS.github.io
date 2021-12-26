@@ -2,17 +2,17 @@
 ## NETWORK SECURITY ASSESSMENT & PENETRATION TESTING VIRTUAL MACHINE
 
 ### Submitted By
-- Aniket Ambore
-- Shubham Nanche
-- Omkar Khedekar
-- Dhanesh Kawad
+- [Aniket .A](https://github.com/aniketambore/)
+- [Dhanesh .K](https://github.com/DhaneshKawad/)
+- [Omkar .K](https://github.com/OmkarKhedekar/)
+- [Shubham .N](https://github.com/shunax19/)
 
 SYNOPSIS REPORT SUBMITTED IN PARTIAL FULFILLMENT OF THE REQUIREMENT FOR THE DEGREE OF BACHELOR OF ENGINEERING IN ELECTRONICS & TELECOMMUNICATION
 
 ### UNDER THE GUIDANCE OF
 Prof. Atul Oak
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+* * *
 
 
 
@@ -23,8 +23,6 @@ Department of Electronics & Telecommunication Engineering
 
 Vidyalankar Institute of Technology
 Wadala (E) Mumbai 400 037.
-
-![](https://lh6.googleusercontent.com/Onj9MSJ_hxK74r7JCjHREpiQ35lNHhGTGNwap5CSgJUuEHS8epkJGkLasbUQz4EMXUCL6zowu0slwyKO9lbJrUFUm-jWLfoSahv8f-kzpoh_MsKAmL3TqCFIixNjKtBBBLqzAmOdAXIMDSoirA)
 
 
 ## Declaration
