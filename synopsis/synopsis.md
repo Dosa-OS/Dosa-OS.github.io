@@ -36,33 +36,33 @@ By undertaking these steps, we can find the vulnerable points in the system and 
 
 
 # Table of Contents
-1. [Introduction](#introduction)
-2. [Objective of Project](#objective-of-project)
-3. [Literature Survey](#literature-survey)
-   - 3.1 What is Penetration Testing?
-   - 3.2 Why Perform a Penetration Test?
-   - 3.3 What is already available in the Market?
-   - 3.4 What is different in our alternative?
-4. [Problem Statement](#problem-statement)
-5. [Scope of the Project](#scope-of-the-project)
-   - 5.1 Project requirements
-   - 5.2 Objectives and Goals
-6. [Proposed System](#proposed-system)
-7. [Methodology](#methodology)
-   - 7.1 SAMPLES / MATERIALS:
-   - 7.2 RESEARCH TOOLS & PROCEDURES
-   - 7.3 DATA ANALYSIS TECHNIQUES
-8. [Analysis](#analysis)
-   - 8.1 Development Cost
-   - 8.2 Set-up
-9. [Designing](#designing)
-   - 9.1 Sequential Diagram
-10. [Hardware & Software requirement](hardware--software-requirement)
-   - Hardware Requirements
-   - Software Requirements
-11. [Timeline Chart of project implementation](#timeline-chart-of-project-implementation)
-   - 11.1 Timeline
-12. [References](#references)
+1. [Introduction](#1-introduction)
+2. [Objective of Project](#2-objective-of-project)
+3. [Literature Survey](#3-literature-survey)
+   - [3.1 What is Penetration Testing?](#31-what-is-penetration-testing)
+   - [3.2 Why Perform a Penetration Test?](#32-why-perform-a-penetration-test)
+   - [3.3 What is already available in the Market?](#33-what-is-already-available-in-the-market)
+   - [3.4 What is different in our alternative?](#34-what-is-different-in-our-alternative)
+4. [Problem Statement](#4-problem-statement)
+5. [Scope of the Project](#5-scope-of-the-project)
+   - [5.1 Project requirements](#51-project-requirements)
+   - [5.2 Objectives and Goals](#52-objectives-and-goals)
+6. [Proposed System](#6-proposed-system)
+7. [Methodology](#7-methodology)
+   - [7.1 SAMPLES / MATERIALS](#71-samples--materials)
+   - [7.2 RESEARCH TOOLS & PROCEDURES](#72-research-tools--procedures)
+   - [7.3 DATA ANALYSIS TECHNIQUES](#73-data-analysis-techniques)
+8. [Analysis](#8-analysis)
+   - [8.1 Development Cost](#81-development-cost-)
+   - [8.2 Set-up](#82-set-up-)
+9. [Designing](#9-designing)
+   - [9.1 Sequential Diagram](#91-sequential-diagram)
+10. [Hardware & Software requirement](10-hardware--software-requirements)
+   - [Hardware Requirements](Hardware Requirements:- minimum requirements to run the operating system and virtual machine)
+   - [Software Requirements](#software-requirements-)
+11. [Timeline Chart of project implementation](#11-timeline-chart-of-project-implementation)
+   - [11.1 Timeline](#111-timeline)
+12. [References](#12-references)
 
 ## 1. Introduction
 This project is designed for network penetration testing and vulnerability assessment. We have focused on setting up various attack scenarios by developing a variety of tools that can be used to exploit a network’s weakness. We aim to create an operating system based on Debian specifically for penetration testing.
@@ -180,19 +180,17 @@ Cost-Benefit Analysis (CBA)
 ### 8.2 Set-up :
 - Hypervisor: To set up the virtual machine on top of the host operating system, a hypervisor emulator such as VirtualBox is used. VirtualBox is a[free and open-source](https://en.wikipedia.org/wiki/Free_and_open-source) [hosted](https://en.wikipedia.org/wiki/Hypervisor#Classification) [hypervisor](https://en.wikipedia.org/wiki/Hypervisor) for [x86 virtualization](https://en.wikipedia.org/wiki/X86_virtualization), developed by[Oracle Corporation](https://en.wikipedia.org/wiki/Oracle_Corporation).
 
-
-
 ## 9. Designing
 ### 9.1 Sequential Diagram
 ![](https://lh3.googleusercontent.com/JV2iAjWcSPTgc26sa7l7jrSbfGvGtQqSgS5dlwv34s6Ud7VJtXg13ml3WIbkTACDZa_stWWOq8A39TtNSQj-n0KUVWaFt7P6TLtGBjXJl67czHq56ToivwEhoTNx4b5_FLy0Aj-N)
 
-## Hardware & Software Requirements
+## 10. Hardware & Software Requirements
 ### Hardware Requirements:- minimum requirements to run the operating system and virtual machine
 1\. i3 2.5GHz or any other 2 Core CPU.
 2\. 8 GB RAM memory
 3\. Around 100GB storage
 
-### 10. Software Requirements:-
+### Software Requirements:-
 1\. VirtualBox 6.1 or higher which works on Windows, Linux, also Macintosh operating systems as a host for the virtual machine.
 2\. Our custom-made operating system will run on a Virtual Machine.
 
