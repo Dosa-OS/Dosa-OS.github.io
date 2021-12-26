@@ -4,6 +4,8 @@ This repository is created for the developers of Dosa-OS project.
 Common Troubleshooting Issues and errors will be fixed here.
 For guide on how to us it, for asking question/s and troubleshooting common errors, check [here](how_to.md).
 
+Read our project synopsis [here](synopsis/synopsis.md)
+
 
 # Developers
 - [Aniket .A](https://github.com/aniketambore/)
