@@ -89,20 +89,35 @@ We are using our custom-built OS called “DosaOS” which is based on the lates
 “_arpspoof_” is a DEB package that can be used to become the man in the middle and transfer packets through it!
 </details>
 
-- **Packet Sniffer:**
+<details>
+<summary>**Packet Sniffer:**</summary>
+<br>
 “_cappac_” is a DEB package that can be used to Capture & Sniff Packets - Sniffs Packets, Captures Data Files while Accessing Websites, Captures Passwords & Usernames (Login Data)!
+</details>
 
-- **DNS Spoofer:**
+<details>
+<summary>**DNS Spoofer:**</summary>
+<br>
 “_dnspoof_” is a DEB package that can be used to Intercept and Modify network traffic.
+</details>
 
-- **Code Injector:**
+<details>
+<summary>**Code Injector:**</summary>
+<br>
 “_injecto_” is a DEB package that can be used to Inject Code on websites.
+</details>
 
-- **MAC Changer**
+<details>
+<summary>**MAC Changer:**</summary>
+<br>
 “_macc_” is a DEB package that can be used to Change MAC Addresses - Increase anonymity, Impersonate other devices, Bypass filters!
+</details>
 
-- **Network Scanner:**
+<details>
+<summary>**Network Scanner:**</summary>
+<br>
 “netsc” is a Python package that can be used to scan a network - get mac addresses and IP of connected devices
+</details>
 
 - **Replace Downloads:**
 “repdwn” is a DEB package that can be used to Intercept and Replace files.
