@@ -36,20 +36,35 @@ By undertaking these steps, we can find the vulnerable points in the system and 
 
 
 # Table of Contents
-- [Introduction](#introduction)
-- [Objective of Project](#objective-of-project)
-- [Literature Survey](#literature-survey)
-- [Problem Statement](#problem-statement)
-- [Scope of the Project](#scope-of-the-project)
-- [Proposed System](#proposed-system)
-- [Methodology](#methodology)
-- [Analysis](#analysis)
-- [Designing](#designing)
-- [Hardware & Software requirement](hardware--software-requirement)
-- [Timeline Chart of project implementation](#timeline-chart-of-project-implementation)
-- [References](#references)
+1. [Introduction](#introduction)
+2. [Objective of Project](#objective-of-project)
+3. [Literature Survey](#literature-survey)
+   - 3.1 What is Penetration Testing?
+   - 3.2 Why Perform a Penetration Test?
+   - 3.3 What is already available in the Market?
+   - 3.4 What is different in our alternative?
+4. [Problem Statement](#problem-statement)
+5. [Scope of the Project](#scope-of-the-project)
+   - 5.1 Project requirements
+   - 5.2 Objectives and Goals
+6. [Proposed System](#proposed-system)
+7. [Methodology](#methodology)
+   - 7.1 SAMPLES / MATERIALS:
+   - 7.2 RESEARCH TOOLS & PROCEDURES
+   - 7.3 DATA ANALYSIS TECHNIQUES
+8. [Analysis](#analysis)
+   - 8.1 Development Cost
+   - 8.2 Set-up
+9. [Designing](#designing)
+   - 9.1 Sequential Diagram
+10. [Hardware & Software requirement](hardware--software-requirement)
+   - Hardware Requirements
+   - Software Requirements
+11. [Timeline Chart of project implementation](#timeline-chart-of-project-implementation)
+   - 11.1 Timeline
+12. [References](#references)
 
-## Introduction
+## 1. Introduction
 This project is designed for network penetration testing and vulnerability assessment. We have focused on setting up various attack scenarios by developing a variety of tools that can be used to exploit a network’s weakness. We aim to create an operating system based on Debian specifically for penetration testing.
 
 There are other alternatives available in the market, namely Kali Linux, BlackArch, Parrot Security, etc. but we have tried to build an operating system that only has the most important scripts, unlike the readily available solutions. The target is to make a stripped-down, lightweight, yet powerful network penetration testing OS.
@@ -59,12 +74,12 @@ Since there are also OS’s in the market built specifically for this purpose, t
 The type of penetration testing we are opting for is White Hat testing, which means that the user will have full information and permission of the system admin to attack the system for testing. This can also be termed ethical hacking.
 
 
-## Objective of Project
+## 2. Objective of Project
 As a network penetration testing VM(Virtual Machine), we plan to identify the weaknesses in the network or the device using custom scripts that we have developed.
 
 Security shouldn’t be taken lightly as we live in the modern era where a person’s identity can be stolen and sold. We plan to make a VM that will be able to detect vulnerabilities in the system using the custom scripts which our team developed. The scripts can find and detect the devices connected to the victim, also being able to monitor their activities or modify a couple of aspects of it.
 
-## Literature Survey
+## 3. Literature Survey
 ### 3.1 What is Penetration Testing?
 Penetration testing, also called “pen testing” or “ethical hacking” is the practice of testing a computer system, network, or web application to find security vulnerabilities that an attacker could exploit. Penetration testing can be automated with software applications or performed manually. Either way, the process involves gathering information about the target before the test, identifying possible entry points, attempting to break in either virtually or for real, and reporting back the findings.
 
@@ -135,13 +150,14 @@ We are using our custom-built OS called “DosaOS” which is based on the lates
 “_macc_” is a DEB package that can be used to Change MAC Addresses - Increase anonymity, Impersonate other devices, Bypass filters!
 </details>
 
+* * *
 
-## Problem Statement
+## 4. Problem Statement
 Creating a specialized VM(_Virtual Machine_) specifically to bring together the most effective Network Security Assessment and Penetration Testing tools and customized scripts.
 
 It enables Network Penetration testers, a quick way to get started and have access to the tools and scripts required specifically for network penetration testing, all neatly packaged under one roof.
 
-## Scope of the Project
+## 5. Scope of the Project
 ### 5.1 Project requirements:
 - Identifying the relevant tools required for penetration testing.
 - A suitable environment to develop and test the scripts. (Virtual Machine, Python)
@@ -155,13 +171,13 @@ It enables Network Penetration testers, a quick way to get started and have acce
 - To obtain an operating system that has the penetration testing tools installed, devoid of its bloatware.
 
 
-## Proposed System
+## 6. Proposed System
 As the network penetration VM our end goal is to achieve a custom Linux operating system based on Debian distro which will have a customized boot loader and will not use many resources while running background.
 
 Our scripts are meant to isolate and monitor the victims browsing while keeping track of the keys pressed and ultimately becoming the man in the middle. Depending on how the attacker decides to use the data it can be taken note of and secured or can be exploited. By intercepting packets data can be redirected to some dummy sites for extracting data from users where the attacker has full control over the activities of the victim also the packets are modified by the attacker before sending it over the internet.
 
 
-## Methodology
+## 7. Methodology
 ### 7.1 SAMPLES / MATERIALS:
 - A capable working 64-bit PC/Laptop (with at least 8GB RAM and 100GB free storage) for launching VirtualBox.
 - The latest build of Debian Linux Distribution (version 11).
@@ -173,11 +189,11 @@ Our scripts are meant to isolate and monitor the victims browsing while keeping 
 - Research papers on this or related topics.
 - Knowledgeable guide/mentor, preferably the one who is considerably versed in information security.
 
-### 7.3 DATA****ANALYSIS TECHNIQUES:
+### 7.3 DATA ANALYSIS TECHNIQUES:
 - Pre-existing software
 - Client-based requirements
 
-## Analysis
+## 8. Analysis
 Cost-Benefit Analysis (CBA)
 ### 8.1 Development Cost :
 - Template Distro: Template Distribution used for the creation of the virtual machine (VM) is free. Debian is used as a template distro, it is made of free and open-source software and will always be 100%[free](https://www.debian.org/intro/free). Free for anyone to use, modify, and distribute.
@@ -188,7 +204,7 @@ Cost-Benefit Analysis (CBA)
 
 
 
-## Designing
+## 9. Designing
 ### 9.1 Sequential Diagram
 ![](https://lh3.googleusercontent.com/JV2iAjWcSPTgc26sa7l7jrSbfGvGtQqSgS5dlwv34s6Ud7VJtXg13ml3WIbkTACDZa_stWWOq8A39TtNSQj-n0KUVWaFt7P6TLtGBjXJl67czHq56ToivwEhoTNx4b5_FLy0Aj-N)
 
@@ -198,15 +214,15 @@ Cost-Benefit Analysis (CBA)
 2\. 8 GB RAM memory
 3\. Around 100GB storage
 
-### Software Requirements:-
+### 10. Software Requirements:-
 1\. VirtualBox 6.1 or higher which works on Windows, Linux, also Macintosh operating systems as a host for the virtual machine.
 2\. Our custom-made operating system will run on a Virtual Machine.
 
-## Timeline chart of project implementation
+## 11. Timeline chart of project implementation
 ### 11.1 Timeline
 ![](https://lh5.googleusercontent.com/-2AH4myhWN7JlMblZ7a6z6u9oAI27Su5y4WmlXH9JQqvKCbB5pSk9TecFO715KqK9k_ovqNb3fVJ0EH8H69du7eSrcv38-j3clLu28hDhEALmX0mY4XAmp9qi6RUEFl4NHBsNyk1)
 
-## References
+## 12. References
 1. _Reasons to use Debian_\[<https://www.debian.org/intro/why_debian>]
 2. _Apache web server_\[<https://www.apache.org/licenses/LICENSE-2.0>]
 3. _Hypervisor Emulator (VirtualBox)_\[<https://www.virtualbox.org/>]
