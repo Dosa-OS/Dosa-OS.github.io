@@ -1,4 +1,4 @@
-<div align="center">
+<center>
 BACHELOR OF ENGINEERING PROJECT ON
 
 **NETWORK SECURITY ASSESSMENT & PENETRATION**
@@ -18,7 +18,7 @@ Submitted By
 
 **Dhanesh Kawad**
 
-</div>
+</center>
 
 
 
