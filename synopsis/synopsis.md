@@ -97,60 +97,38 @@ If a vulnerability is utilized by an unauthorized individual to access company r
 ### 3.4 What is different in our alternative?
 We are using our custom-built OS called “DosaOS” which is based on the latest DEBIAN distribution (version 11). The purpose of this OS is to penetrate the networks and find vulnerabilities in the victim machines. Initially, the template DEBIAN distribution that we have used does not contain any penetration testing toolkit at all. This means that it has to be implemented into this template right from the scratch! The following are the set of scripts written in PYTHON that will do the aforementioned work:
 
-<details>
-<summary>Network Scanner [netsc]:</summary>
-<br>
-“netsc” is a Python package that can be used to scan a network - get mac addresses and IP of connected devices
+### Network Scanner [netsc]:
+- “netsc” is a Python package that can be used to scan a network - get mac addresses and IP of connected devices
 
 ![](Images/netsc.png)
-</details>
 
-<details>
-<summary>ARP Spoofer [arpspoof]:</summary>
-<br>
-“_arpspoof_” is a DEB package that can be used to become the man in the middle and transfer packets through it!
+### ARP Spoofer [arpspoof]:
+- “_arpspoof_” is a DEB package that can be used to become the man in the middle and transfer packets through it!
 
 ![](Images/netsc.png)
-</details>
 
-<details>
-<summary>Packet Sniffer [cappac]:</summary>
-<br>
-“_cappac_” is a DEB package that can be used to Capture & Sniff Packets - Sniffs Packets, Captures Data Files while Accessing Websites, Captures Passwords & Usernames (Login Data)!
+### Packet Sniffer [cappac]:
+- “_cappac_” is a DEB package that can be used to Capture & Sniff Packets - Sniffs Packets, Captures Data Files while Accessing Websites, Captures Passwords & Usernames (Login Data)!
 
 ![](Images/cappac.png)
-</details>
 
-<details>
-<summary>DNS Spoofer [dnspoof]:</summary>
-<br>
-“_dnspoof_” is a DEB package that can be used to Intercept and Modify network traffic.
+### DNS Spoofer [dnspoof]:
+- “_dnspoof_” is a DEB package that can be used to Intercept and Modify network traffic.
 
 ![](Images/dns.png)
 
 ![](Images/dns_result.png)
-</details>
 
-<details>
-<summary>Code Injector [injecto]:</summary>
-<br>
-“_injecto_” is a DEB package that can be used to Inject Code on websites.
+### Code Injector [injecto]:
+- “_injecto_” is a DEB package that can be used to Inject Code on websites.
 
 ![](Images/inject_code.png)
-</details>
 
-<details>
-<summary>Replace Downloads [repdwn]:</summary>
-<br>
-“repdwn” is a DEB package that can be used to Intercept and Replace files.</details>
+### Replace Downloads [repdwn]:
+- “repdwn” is a DEB package that can be used to Intercept and Replace files.</details>
 
-<details>
-<summary>MAC Changer [macc]:</summary>
-<br>
-“_macc_” is a DEB package that can be used to Change MAC Addresses - Increase anonymity, Impersonate other devices, Bypass filters!
-</details>
-
-* * *
+### MAC Changer [macc]:
+- “_macc_” is a DEB package that can be used to Change MAC Addresses - Increase anonymity, Impersonate other devices, Bypass filters!
 
 ## 4. Problem Statement
 Creating a specialized VM(_Virtual Machine_) specifically to bring together the most effective Network Security Assessment and Penetration Testing tools and customized scripts.
