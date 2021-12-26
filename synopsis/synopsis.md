@@ -6,17 +6,11 @@
 <h2>NETWORK SECURITY ASSESSMENT & PENETRATION TESTING VIRTUAL MACHINE</h2>
 <div>
 
-Submitted By
-
-**Aniket Ambore**
-
-**Shubham Nanche**
-
-**Omkar Khedekar**
-
-**Dhanesh Kawad**
-
-</center>
+### Submitted By
+- [Aniket .A](https://github.com/aniketambore/)
+- [Dhanesh .K](https://github.com/DhaneshKawad/)
+- [Omkar .K](https://github.com/OmkarKhedekar/)
+- [Shubham .N](https://github.com/shunax19/)
 
 
 
