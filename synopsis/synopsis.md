@@ -86,6 +86,7 @@ We are using our custom-built OS called “DosaOS” which is based on the lates
 <summary>Network Scanner [netsc]:</summary>
 <br>
 “netsc” is a Python package that can be used to scan a network - get mac addresses and IP of connected devices
+
 ![](Images/netsc.png)
 </details>
 
@@ -93,6 +94,7 @@ We are using our custom-built OS called “DosaOS” which is based on the lates
 <summary>ARP Spoofer [arpspoof]:</summary>
 <br>
 “_arpspoof_” is a DEB package that can be used to become the man in the middle and transfer packets through it!
+
 ![](Images/netsc.png)
 </details>
 
@@ -100,6 +102,7 @@ We are using our custom-built OS called “DosaOS” which is based on the lates
 <summary>Packet Sniffer [cappac]:</summary>
 <br>
 “_cappac_” is a DEB package that can be used to Capture & Sniff Packets - Sniffs Packets, Captures Data Files while Accessing Websites, Captures Passwords & Usernames (Login Data)!
+
 ![](Images/cappac.png)
 </details>
 
@@ -107,7 +110,9 @@ We are using our custom-built OS called “DosaOS” which is based on the lates
 <summary>DNS Spoofer [dnspoof]:</summary>
 <br>
 “_dnspoof_” is a DEB package that can be used to Intercept and Modify network traffic.
+
 ![](Images/dns.png)
+
 ![](Images/dns_result.png)
 </details>
 
@@ -115,6 +120,7 @@ We are using our custom-built OS called “DosaOS” which is based on the lates
 <summary>Code Injector [injecto]:</summary>
 <br>
 “_injecto_” is a DEB package that can be used to Inject Code on websites.
+
 ![](Images/inject_code.png)
 </details>
 
