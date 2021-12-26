@@ -28,18 +28,19 @@
 <h3>Prof. Atul Oak</h3>
 </div>
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+* * *
 
 
 
+<div align="center">
+<p>Department of Electronics & Telecommunication Engineering</p>
+</div>
 
-Department of Electronics & Telecommunication Engineering
+<img src="https://lh5.googleusercontent.com/otSAqwW4xdhV171psLwxFqWjg5vwYij_72qR-sw-xAthW3rSfwz29bksV580_Je2rlemr94Wx8Io_NezaYjIwC49jnqpy43Xgf6xxhHvA_zwvMYeJF-dvUzQDR3A_UZPWEHKMz0ZFPTXELNWWw" />
 
-![](https://lh5.googleusercontent.com/otSAqwW4xdhV171psLwxFqWjg5vwYij_72qR-sw-xAthW3rSfwz29bksV580_Je2rlemr94Wx8Io_NezaYjIwC49jnqpy43Xgf6xxhHvA_zwvMYeJF-dvUzQDR3A_UZPWEHKMz0ZFPTXELNWWw)
-
-Vidyalankar Institute of Technology
-
+<p>Vidyalankar Institute of Technology
 Wadala (E) Mumbai 400 037.
+</p>
 
 ![](https://lh6.googleusercontent.com/Onj9MSJ_hxK74r7JCjHREpiQ35lNHhGTGNwap5CSgJUuEHS8epkJGkLasbUQz4EMXUCL6zowu0slwyKO9lbJrUFUm-jWLfoSahv8f-kzpoh_MsKAmL3TqCFIixNjKtBBBLqzAmOdAXIMDSoirA)
 
