@@ -88,19 +88,19 @@ We are using our custom-built OS called “DosaOS” which is based on the lates
 - **Packet Sniffer:**
 “_cappac_” is a DEB package that can be used to Capture & Sniff Packets - Sniffs Packets, Captures Data Files while Accessing Websites, Captures Passwords & Usernames (Login Data)!
 
-- **## DNS Spoofer:**
+- **DNS Spoofer:**
 “_dnspoof_” is a DEB package that can be used to Intercept and Modify network traffic.
 
-- **## Code Injector:**
+- **Code Injector:**
 “_injecto_” is a DEB package that can be used to Inject Code on websites.
 
-- **## MAC Changer**
+- **MAC Changer**
 “_macc_” is a DEB package that can be used to Change MAC Addresses - Increase anonymity, Impersonate other devices, Bypass filters!
 
-- **## Network Scanner:**
+- **Network Scanner:**
 “netsc” is a Python package that can be used to scan a network - get mac addresses and IP of connected devices
 
-- **## Replace Downloads:**
+- **Replace Downloads:**
 “repdwn” is a DEB package that can be used to Intercept and Replace files.
 
 ## Problem Statement
