@@ -105,7 +105,7 @@ We are using our custom-built OS called “DosaOS” which is based on the lates
 ### ARP Spoofer [arpspoof]:
 - “_arpspoof_” is a DEB package that can be used to become the man in the middle and transfer packets through it!
 
-![](Images/netsc.png)
+![](Images/arp.png)
 
 ### Packet Sniffer [cappac]:
 - “_cappac_” is a DEB package that can be used to Capture & Sniff Packets - Sniffs Packets, Captures Data Files while Accessing Websites, Captures Passwords & Usernames (Login Data)!
