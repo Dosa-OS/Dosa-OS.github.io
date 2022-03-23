@@ -22,13 +22,14 @@ To get started, download the OVA version below and run it in your choice of VM s
 We continue to build on the **Dosa VM** and await your feedback. Our goal with this project is to create a specialized VM (virtual machine) specifically to bring together the most effective network security assessment tools and custom penetration testing scripts.
 
 ## Tools Include
-| Name | Features
-| netsc | “netsc” tool can be used to scan a network - get mac addresses and IP of connected devices
-| arpspoof | “arpspoof” tool can be used to perform the man in the middle attack!
-| cappac | “cappac” tool can be used to Capture & Sniff Packets - Sniffs Packets, Captures Data Files while Accessing Websites, Captures Passwords & Usernames (Login Data)!
-| dnspoof | “dnspoof” tool can be used to Intercept and Modify network traffic.
-| injecto | “injecto” tool can be used to Inject Code on websites.
-| repdwn | “repdwn” tool can be used to Intercept and Replace files.
+| Name  | Features
+|:-----:|:------------
+| **netsc** | “netsc” tool can be used to scan a network - get mac addresses and IP of connected devices
+| **arpspoof** | “arpspoof” tool can be used to perform the man in the middle attack!
+| **cappac** | “cappac” tool can be used to Capture & Sniff Packets - Sniffs Packets, Captures Data Files while Accessing Websites, Captures Passwords & Usernames (Login Data)!
+| **dnspoof** | “dnspoof” tool can be used to Intercept and Modify network traffic.
+| **injecto** | “injecto” tool can be used to Inject Code on websites.
+| **repdwn** | “repdwn” tool can be used to Intercept and Replace files.
 
 Read our project synopsis [here](synopsis/synopsis.md)
 
