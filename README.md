@@ -9,7 +9,7 @@
 </div>
 
 ## Checkout
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2i-wYMZ8ImA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/2i-wYMZ8ImA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Download
 To get started, download the OVA version below and run it in your choice of VM software (ie. VMware Workstation, Virtualbox etc.). The default credentials to log in to the DOSA VM are `dosa`:`dosa`
