@@ -1,15 +1,21 @@
 # Dosa OS
 ## NETWORK SECURITY ASSESSMENT & PENETRATION TESTING VIRTUAL MACHINE
 
-This project is designed for network penetration testing and vulnerability assessment. We have focused on setting up various attack scenarios by developing a variety of tools that can be used to exploit a network’s weakness. We aim to create an operating system based on Debian specifically for penetration testing.
 
-[![Download Dosa OS](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/dosa-os/files/latest/download)
+
+<div align="center">
+    <p>This project is designed for network penetration testing and vulnerability assessment. We have focused on setting up various attack scenarios by developing a variety of tools that can be used to exploit a network’s weakness. We aim to create an operating system based on Debian specifically for penetration testing.</p>
+    <img src="Screenshot/dosa-os-ss1.png?raw=true" width="80px" alt="Dosa VM"/>
+</div>
 
 ## Checkout
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2i-wYMZ8ImA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Download
-To get started, download the OVA version below and run it in your choice of VM software (ie. VMware Workstation, Virtualbox etc.). The default credentials to log in to the DOSA VM are dosa:dosa
+To get started, download the OVA version below and run it in your choice of VM software (ie. VMware Workstation, Virtualbox etc.). The default credentials to log in to the DOSA VM are `dosa`:`dosa`
+
+
+[![Download Dosa OS](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/dosa-os/files/latest/download)
 
 ## System Requirements
 
