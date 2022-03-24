@@ -13,13 +13,6 @@ To get started, download the OVA version below and run it in your choice of VM s
 
 ## System Requirements
 
-| Category          | Requirement                                        |
-|:------------------|:---------------------------------------------------|
-| Operating Systems | Windows 10 x64 / Mac OS X / Linux Distribution x64 |
-| Processor         | i3 2.5GHz or any other 2 Core CPU                  |
-| Memory            | 8 GB RAM                                           |
-| Storage           | 40 GB Available                                    |
-
 <table style="width:100%">
   <tr>
     <th>Category</th>
