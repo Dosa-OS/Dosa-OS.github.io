@@ -5,7 +5,7 @@
 
 <div align="center">
     <p>This project is designed for network penetration testing and vulnerability assessment. We have focused on setting up various attack scenarios by developing a variety of tools that can be used to exploit a network’s weakness. We aim to create an operating system based on Debian specifically for penetration testing.</p>
-    <img src="Screenshot/dosa-os-ss1.png?raw=true" width="80px" alt="Dosa VM"/>
+    <img src="Screenshot/dosa-os-ss1.png?raw=true" width="100%" alt="Dosa VM"/>
 </div>
 
 ## Checkout
