@@ -20,6 +20,29 @@ To get started, download the OVA version below and run it in your choice of VM s
 | Memory            | 8 GB RAM                                           |
 | Storage           | 40 GB Available                                    |
 
+<table style="width:100%">
+  <tr>
+    <th>Category</th>
+    <th>Requirement</th>
+  </tr>
+  <tr>
+    <td>Operating Systems</td>
+    <td>Windows 10 x64 / Mac OS X / Linux Distribution x64</td>
+  </tr>
+  <tr>
+    <td>Processor</td>
+    <td>i3 2.5GHz or any other 2 Core CPU</td>
+  </tr>
+  <tr>
+    <td>Memory</td>
+    <td>8 GB RAM</td>
+  </tr>
+  <tr>
+    <td>Storage</td>
+    <td>40 GB Available</td>
+  </tr>
+</table>
+
 
 We continue to build on the **Dosa VM** and await your feedback. Our goal with this project is to create a specialized VM (virtual machine) specifically to bring together the most effective network security assessment tools and custom penetration testing scripts.
 
