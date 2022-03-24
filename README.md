@@ -12,16 +12,19 @@ This project is designed for network penetration testing and vulnerability asses
 To get started, download the OVA version below and run it in your choice of VM software (ie. VMware Workstation, Virtualbox etc.). The default credentials to log in to the DOSA VM are dosa:dosa
 
 ## System Requirements
-| Category | Tools/Features 
-|:--------:|:--------------
-| Operating Systems | Windows 10 x64 / Mac OS X / Linux Distribution x64
-| Processor | i3 2.5GHz or any other 2 Core CPU 
-| Memory | 8 GB RAM 
-| Storage | 40 GB Available
+
+| Category          | Requirement                                        |
+|:------------------|:---------------------------------------------------|
+| Operating Systems | Windows 10 x64 / Mac OS X / Linux Distribution x64 |
+| Processor         | i3 2.5GHz or any other 2 Core CPU                  |
+| Memory            | 8 GB RAM                                           |
+| Storage           | 40 GB Available                                    |
+
 
 We continue to build on the **Dosa VM** and await your feedback. Our goal with this project is to create a specialized VM (virtual machine) specifically to bring together the most effective network security assessment tools and custom penetration testing scripts.
 
 ## Tools Include
+
 | Name  | Features
 |:-----:|:------------
 | **netsc** | “netsc” tool can be used to scan a network - get mac addresses and IP of connected devices
