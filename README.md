@@ -8,9 +8,6 @@
     <img src="Screenshot/dosa-os-ss1.png?raw=true" width="100%" alt="Dosa VM"/>
 </div>
 
-## Checkout
-<iframe width="100%" src="https://www.youtube.com/embed/2i-wYMZ8ImA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Download
 To get started, download the OVA version below and run it in your choice of VM software (ie. VMware Workstation, Virtualbox etc.). The default credentials to log in to the DOSA VM are `dosa`:`dosa`
 
@@ -57,6 +54,9 @@ We continue to build on the **Dosa VM** and await your feedback. Our goal with t
 | **repdwn** | “repdwn” tool can be used to Intercept and Replace files.
 
 Read our project synopsis [here](synopsis/synopsis.md)
+
+## Checkout
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2i-wYMZ8ImA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 # Developers
