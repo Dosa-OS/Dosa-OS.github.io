@@ -51,7 +51,7 @@ We continue to build on the **Dosa VM** and await your feedback. Our goal with t
 | **injecto** | “injecto” tool can be used to Inject Code on websites.
 | **repdwn** | “repdwn” tool can be used to Intercept and Replace files.
 
-Read our project synopsis [here](synopsis/synopsis.md)
+### Read our project synopsis [here](synopsis/synopsis.md)
 
 ## Checkout
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2i-wYMZ8ImA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
