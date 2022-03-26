@@ -14,7 +14,7 @@ To get started, download the OVA version below and run it in your choice of VM s
 
 [![Download Dosa OS](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/dosa-os/files/latest/download)
 
-## System Requirements
+## Minimum System Requirements
 
 <table style="width:100%">
   <tr>
@@ -31,11 +31,9 @@ To get started, download the OVA version below and run it in your choice of VM s
   </tr>
   <tr>
     <td>Memory</td>
-    <td>8 GB RAM</td>
+    <td>2 GB RAM</td>
   </tr>
   <tr>
-    <td>Storage</td>
-    <td>40 GB Available</td>
   </tr>
 </table>
 
